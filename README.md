@@ -19,13 +19,13 @@ Before running this project, make sure you have the following prerequisites inst
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/insurance-claim-prediction.git
+   git clone https://github.com/harshavardhini39/AUTO_INSURANCE_CLAIM.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd insurance-claim-prediction
+   cd AUTO_INSURANCE_CLAIM
    ```
 
 3. Install the required Python packages:
